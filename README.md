@@ -1,0 +1,1 @@
+This repository consists of our solution to the first task provided at INT20H Hackathon in Kyiv in 2022. The main goal was to predict whether a client of a taxi service provider would churn in the nearest future or not.
